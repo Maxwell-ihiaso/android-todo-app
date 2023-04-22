@@ -1,6 +1,8 @@
 {
   "name": "todo-app",
   "version": "1.0.0",
+  "author": "Maxwell Ihiaso",
+  "keywords": ["react", "react native", "expo", "todo"],
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
